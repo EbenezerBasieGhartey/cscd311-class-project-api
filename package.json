@@ -1,0 +1,21 @@
+{
+  "name": "student_app",
+  "version": "1.0.0",
+  "description": "jkj",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js "
+  },
+  "author": "Ebenezer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "expess": "0.0.1-security",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.4.3",
+    "mongoose": "^5.7.3",
+    "nodemon": "^1.19.3",
+    "path": "^0.12.7"
+  }
+}
